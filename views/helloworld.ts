@@ -46,7 +46,7 @@
 //slice()
 // var arr:Array<String> = ["Hello", "Sous sdei", "Welcome", "Bye Bye"]; 
 // console.log(arr.slice(1));  
-// console.log(arr.slice(1, 3) );
+// console.log(arr.slice(0, 3) );
 
 
 //split()
